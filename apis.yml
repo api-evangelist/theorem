@@ -1,8 +1,28 @@
 aid: theorem
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/theorem.png
 name: Theorem
-description: 'Theorem is a company surfaced as a portfolio company of initialized-capital and added to
-  the API Evangelist network as a stub for enrichment. Sector: fintech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Theorem builds machine-learning-powered credit underwriting infrastructure
+  for consumer debt markets. Since 2014 the company has priced and purchased billions
+  of dollars in loan volume, powering one of the longest-running investment programs
+  in the market. Its products deliver instant, API-driven credit assessments to lending
+  originators (Custom Loan Integration Programs, or CLIP), score default risk down
+  to individual loan cashflows (Theorem Loan Score, or TLS), and package loans into
+  credit products for capital-market investors (Securitization as a Service). The API
+  is a private, partner-onboarded B2B integration arranged through the partnerships
+  team; there is no public developer portal, published OpenAPI specification, or self-service
+  sign-up. Theorem is backed by Initialized Capital and operates from Silicon Valley,
+  New York City, and Dallas.'
 url: https://raw.githubusercontent.com/api-evangelist/theorem/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -12,10 +32,17 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Fintech
+- Credit Underwriting
+- Machine Learning
+- Consumer Lending
+- Loan Securitization
+- Capital Markets
+- Risk Scoring
+- Credit Markets
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -24,4 +51,23 @@ maintainers:
   email: info@apis.io
 common:
 - type: Website
-  url: http://theoremlp.com/
+  url: https://www.theoremlp.com/
+- type: About
+  url: https://www.theoremlp.com/about-us
+- type: Partnerships
+  url: https://www.theoremlp.com/partnerships
+- type: TermsOfService
+  url: https://www.theoremlp.com/terms
+- type: PrivacyPolicy
+  url: https://www.theoremlp.com/privacy-policy
+- type: LinkedIn
+  url: https://www.linkedin.com/company/theorem-lp/
+- type: DomainSecurity
+  url: security/theorem-domain-security.yml
+- type: LLMsTxt
+  url: llms/theorem-llms.txt
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 2
+  pass: local-v1

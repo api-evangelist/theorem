@@ -1,0 +1,24 @@
+# Theorem
+
+> Theorem builds machine-learning-powered credit underwriting infrastructure for consumer debt markets. Since 2014 it has priced and purchased billions of dollars in loan volume, providing instant, API-delivered credit assessments to lending originators and packaging loans into credit products for capital-market investors.
+
+Theorem operates an institutional-grade underwriting platform. Its API is a private, partner-onboarded B2B integration (there is no public developer portal, published OpenAPI specification, or self-service sign-up); technical integration is arranged through the partnerships team.
+
+## Products
+- [Theorem Loan Score (TLS)](https://www.theoremlp.com/our-technology): Machine-learning evaluation of the default risk of a loan, analyzed down to individual cashflows and the expected value of each payment.
+- [Custom Loan Integration Programs (CLIP)](https://www.theoremlp.com/our-technology): A decision engine that plugs into a partner's existing underwriting flow — from calling the API for instant results to deeper bespoke integrations.
+- [Securitization as a Service (SaaS)](https://www.theoremlp.com/our-technology): Packages loans into credit products and connects originators to capital-market investors.
+
+## Company
+- [Our Technology](https://www.theoremlp.com/our-technology): Overview of the TLS, CLIP, and SaaS products.
+- [Partnerships](https://www.theoremlp.com/partnerships): Integration and capital-sourcing model for originating partners.
+- [About Us](https://www.theoremlp.com/about-us): Company background; offices in Silicon Valley, New York City, and Dallas.
+- [Careers](https://www.theoremlp.com/careers): Open roles.
+
+## Legal
+- [Terms of Use](https://www.theoremlp.com/terms)
+- [Privacy Policy](https://www.theoremlp.com/privacy-policy)
+
+## Contact
+- Email: info@theorem.com
+- [LinkedIn](https://www.linkedin.com/company/theorem-lp/)
