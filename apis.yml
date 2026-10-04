@@ -48,7 +48,7 @@ tags:
 - Company
 - Fintech
 - Credit Underwriting
-- Machine-Learning
+- Machine Learning
 - Consumer Lending
 - Loan Securitization
 - Capital Markets
@@ -64,6 +64,7 @@ tags_raw:
 - Capital Markets
 - Risk Scoring
 - Credit Markets
+- Machine-Learning
 apis: []
 maintainers:
 - FN: Kin Lane
